@@ -1,4 +1,4 @@
-# [Terraform Challenges Series](https://kodekloud.com/courses/terraform-challenges/)
+## [Terraform Challenges Series](https://kodekloud.com/courses/terraform-challenges/)
 
 These are fun and exciting Terraform challenges from the **[Terraform Challenges](https://kodekloud.com/courses/terraform-challenges/)** Series hosted on **KodeKloud** platform available for free.
 
